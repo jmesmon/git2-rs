@@ -28,3 +28,5 @@ build = "build.rs"
   git = "https://github.com/alexcrichton/openssl-sys"
 [target.x86_64-unknown-freebsd.dependencies.openssl-sys]
   git = "https://github.com/alexcrichton/openssl-sys"
+[dependencies.openssl-sys]
+  git = "https://github.com/alexcrichton/openssl-sys"
